@@ -1,4 +1,4 @@
-# Notes List with SubList for Cobex
+# Notes List with SubList for Cubex
 
 Цель:
 Создать интерактивный список заметок:
